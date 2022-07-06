@@ -1,1 +1,1 @@
-This is c programming training folder
+this is a c hello worlds readme
